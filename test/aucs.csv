@@ -1,0 +1,4 @@
+Model,AUC
+Tabular data of 100 variables directly,0.67
+ML-predicted reasoning-oriented score,0.8
+Combination of PSA and ML-predicted reasoning-oriented score,0.8600000000000001
